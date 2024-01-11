@@ -1,0 +1,6 @@
+src/WingWar/WingWar/WingWar/bin/
+src/WingWar/WingWar/WingWar/obj/
+src/WingWar/WingWar/WingWarContent/bin/
+src/WingWar/WingWar/WingWarContent/obj/
+src/WingWar/*.suo
+bin/
